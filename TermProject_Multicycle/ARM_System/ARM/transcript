@@ -1,0 +1,139 @@
+# Reading C:/Modeltech_pe_edu_10.4a/tcl/vsim/pref.tcl
+# OpenFile C:/Users/PC/Desktop/TermProject_Multicycle/ARM_System/ARM/ARMCPU.v
+vlib work
+vlog -reportprogress 300 -work work C:/Users/PC/Desktop/TermProject_Multicycle/ARM_System/ARM/ARMCPU.v
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 13:24:55 on May 29,2023
+# vlog -reportprogress 300 -work work C:/Users/PC/Desktop/TermProject_Multicycle/ARM_System/ARM/ARMCPU.v 
+# -- Compiling module signextmux
+# -- Compiling module register_1bit
+# -- Compiling module register
+# -- Compiling module decoder_4to16
+# -- Compiling module registerfile
+# -- Compiling module armreduced
+# 
+# Top level modules:
+# 	armreduced
+# End time: 13:24:55 on May 29,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work C:/Users/PC/Desktop/TermProject_Multicycle/ARM_System/ARM/ARMCPU.v
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 13:25:00 on May 29,2023
+# vlog -reportprogress 300 -work work C:/Users/PC/Desktop/TermProject_Multicycle/ARM_System/ARM/ARMCPU.v 
+# -- Compiling module signextmux
+# -- Compiling module register_1bit
+# -- Compiling module register
+# -- Compiling module decoder_4to16
+# -- Compiling module registerfile
+# -- Compiling module armreduced
+# 
+# Top level modules:
+# 	armreduced
+# End time: 13:25:00 on May 29,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work C:/Users/PC/Desktop/TermProject_Multicycle/ARM_System/ARM/ARMCPU.v
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 13:25:07 on May 29,2023
+# vlog -reportprogress 300 -work work C:/Users/PC/Desktop/TermProject_Multicycle/ARM_System/ARM/ARMCPU.v 
+# -- Compiling module signextmux
+# -- Compiling module register_1bit
+# -- Compiling module register
+# -- Compiling module decoder_4to16
+# -- Compiling module registerfile
+# -- Compiling module armreduced
+# 
+# Top level modules:
+# 	armreduced
+# End time: 13:25:07 on May 29,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work C:/Users/PC/Desktop/TermProject_Multicycle/ARM_System/ARM/ARMCPU.v
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 13:25:08 on May 29,2023
+# vlog -reportprogress 300 -work work C:/Users/PC/Desktop/TermProject_Multicycle/ARM_System/ARM/ARMCPU.v 
+# -- Compiling module signextmux
+# -- Compiling module register_1bit
+# -- Compiling module register
+# -- Compiling module decoder_4to16
+# -- Compiling module registerfile
+# -- Compiling module armreduced
+# 
+# Top level modules:
+# 	armreduced
+# End time: 13:25:08 on May 29,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work C:/Users/PC/Desktop/TermProject_Multicycle/ARM_System/ARM/ARMCPU.v
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 13:25:08 on May 29,2023
+# vlog -reportprogress 300 -work work C:/Users/PC/Desktop/TermProject_Multicycle/ARM_System/ARM/ARMCPU.v 
+# -- Compiling module signextmux
+# -- Compiling module register_1bit
+# -- Compiling module register
+# -- Compiling module decoder_4to16
+# -- Compiling module registerfile
+# -- Compiling module armreduced
+# 
+# Top level modules:
+# 	armreduced
+# End time: 13:25:08 on May 29,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Load canceled
+vlog -reportprogress 300 -work work C:/Users/PC/Desktop/TermProject_Multicycle/ARM_System/ARM/ARMCPU.v
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 13:25:40 on May 29,2023
+# vlog -reportprogress 300 -work work C:/Users/PC/Desktop/TermProject_Multicycle/ARM_System/ARM/ARMCPU.v 
+# -- Compiling module signextmux
+# -- Compiling module register_1bit
+# -- Compiling module register
+# -- Compiling module decoder_4to16
+# -- Compiling module registerfile
+# -- Compiling module armreduced
+# 
+# Top level modules:
+# 	armreduced
+# End time: 13:25:40 on May 29,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work C:/Users/PC/Desktop/TermProject_Multicycle/ARM_System/ARM/ARMCPU.v
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 13:25:43 on May 29,2023
+# vlog -reportprogress 300 -work work C:/Users/PC/Desktop/TermProject_Multicycle/ARM_System/ARM/ARMCPU.v 
+# -- Compiling module signextmux
+# -- Compiling module register_1bit
+# -- Compiling module register
+# -- Compiling module decoder_4to16
+# -- Compiling module registerfile
+# -- Compiling module armreduced
+# 
+# Top level modules:
+# 	armreduced
+# End time: 13:25:43 on May 29,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work C:/Users/PC/Desktop/TermProject_Multicycle/ARM_System/ARM/ARMCPU.v
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 13:25:43 on May 29,2023
+# vlog -reportprogress 300 -work work C:/Users/PC/Desktop/TermProject_Multicycle/ARM_System/ARM/ARMCPU.v 
+# -- Compiling module signextmux
+# -- Compiling module register_1bit
+# -- Compiling module register
+# -- Compiling module decoder_4to16
+# -- Compiling module registerfile
+# -- Compiling module armreduced
+# 
+# Top level modules:
+# 	armreduced
+# End time: 13:25:44 on May 29,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work C:/Users/PC/Desktop/TermProject_Multicycle/ARM_System/ARM/ARMCPU.v
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 13:26:38 on May 29,2023
+# vlog -reportprogress 300 -work work C:/Users/PC/Desktop/TermProject_Multicycle/ARM_System/ARM/ARMCPU.v 
+# -- Compiling module signextmux
+# -- Compiling module register_1bit
+# -- Compiling module register
+# -- Compiling module decoder_4to16
+# -- Compiling module registerfile
+# -- Compiling module armreduced
+# 
+# Top level modules:
+# 	armreduced
+# End time: 13:26:38 on May 29,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0

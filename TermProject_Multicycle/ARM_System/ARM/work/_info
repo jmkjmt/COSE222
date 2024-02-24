@@ -1,0 +1,136 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/PC/Desktop/TermProject_Multicycle/ARM_System/ARM
+varmreduced
+Z1 !s110 1685334398
+!i10b 1
+!s100 2NBXeDLZE<Cc9@]=6IO7n3
+IG@0oZC`YRdOFKE[DNb38T1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1684893708
+Z4 8C:/Users/PC/Desktop/TermProject_Multicycle/ARM_System/ARM/ARMCPU.v
+Z5 FC:/Users/PC/Desktop/TermProject_Multicycle/ARM_System/ARM/ARMCPU.v
+L0 119
+Z6 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z7 !s108 1685334398.000000
+Z8 !s107 C:/Users/PC/Desktop/TermProject_Multicycle/ARM_System/ARM/ARMCPU.v|
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/PC/Desktop/TermProject_Multicycle/ARM_System/ARM/ARMCPU.v|
+!s101 -O0
+!i113 1
+Z10 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vdecoder_4to16
+R1
+!i10b 1
+!s100 7]h55CBciG?KS<5GQLS=U2
+IRiY>K9RcI>7dEKJdm0l3V3
+R2
+R0
+R3
+R4
+R5
+L0 55
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vregister
+R1
+!i10b 1
+!s100 @eX8]@LW`Mzoh`<c:05T>0
+IbO7]Yi:JKFPW];CP_hQZS0
+R2
+R0
+R3
+R4
+R5
+L0 42
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vregister_1bit
+R1
+!i10b 1
+!s100 :N_0ehBNk;Z[0LORfJYaa0
+I2ZN_L_Y_Y]2XA_Ueo6G920
+R2
+R0
+R3
+R4
+R5
+L0 26
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vregisterfile
+R1
+!i10b 1
+!s100 2a8`AdK_kPMYBhfQlV:bZ3
+I[E8D@?SdO`Uj4JA:UST;c2
+R2
+R0
+R3
+R4
+R5
+L0 79
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vsignextmux
+R1
+!i10b 1
+!s100 7Fa<JGk5P25j@I??OO0WS0
+IaN7S_9=Ql[J?DBEQJ]Ido3
+R2
+R0
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
